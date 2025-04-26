@@ -1,0 +1,51 @@
+					python 
+
+print
+variables
+datatypes
+oprators |
+         aithmatic oprators
+		addtion
+		subtraction
+		multification
+		devision
+		module devision
+
+	 relational oprators
+		equal
+		not equal
+		greater than
+		less than
+		greaterthan equal
+		lessthan equal
+
+	 logical oprators
+		and
+		or
+		not
+
+keyword
+comments
+input
+strings
+			concatenation
+			lengh of str
+			indexing
+			slicing
+		
+strings function
+			endswith()
+			capitalize()
+			replace()
+			find()
+			cout()
+
+conditional statements
+			if
+			if else
+			else if
+			nesting
+
+List and tuple
+
+	
