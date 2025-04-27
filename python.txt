@@ -4,7 +4,7 @@ print
 variables
 datatypes
 oprators |
-         aithmatic oprators
+  aithmatic oprators
 		addtion
 		subtraction
 		multification
@@ -46,6 +46,22 @@ conditional statements
 			else if
 			nesting
 
-List and tuple
+List
+			list()
+			listSlicing()
+			append()
+			insert()
+			pop()
+			remove()
+			reverse()
+			sort()
+			sortReverse()
+
+tuple
+			cout()
+			index()
+			tuple()
+
+
 
 	
